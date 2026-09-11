@@ -7,7 +7,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "格擋減傷", type: 2 }, { name: "祝福", type: 4 }],
     mainElements: [2, 5],
     subInheritanceLevel: 0.50,
-    image: "Source/flowers/1.png",
+    image: "Source/flowers/瞌睡菇.png",
     stats: [
       { level: 1,  wisdom: 220,  spirit: 310,  strength: 310,  agility: 220,  endurance: 160  },
       { level: 2,  wisdom: 260,  spirit: 370,  strength: 370,  agility: 260,  endurance: 180  },
@@ -32,7 +32,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "暴擊傷害", type: 4 }, { name: "邪咒", type: 2 }],
     mainElements: [3, 4],
     subInheritanceLevel: 0.50,
-    image: "Source/flowers/2.png",
+    image: "Source/flowers/綿綿風鈴.png",
     stats: [
       { level: 1,  wisdom: 310,  spirit: 220,  strength: 220, agility: 310,  endurance: 160 },
       { level: 2,  wisdom: 370,  spirit: 260,  strength: 260, agility: 370,  endurance: 180 },
@@ -57,7 +57,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "風行", type: 4 }, { name: "競技攻擊", type: 2 }],
     mainElements: [4, 5],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/3.png",
+    image: "Source/flowers/甜妙小櫻.png",
     stats: [
       { level: 1,  wisdom: 220,  spirit: 310,  strength: 220,  agility: 310,  endurance: 160  },
       { level: 2,  wisdom: 260,  spirit: 370,  strength: 260,  agility: 370,  endurance: 180  },
@@ -82,7 +82,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "急速", type: 2 },{ name: "競技生命", type: 4 }],
     mainElements: [2, 3],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/4.png",
+    image: "Source/flowers/拉考迪尼.png",
     stats: [
       { level: 1,  wisdom: 310,  spirit: 220,  strength: 310,  agility: 220,  endurance: 160  },
       { level: 2,  wisdom: 370,  spirit: 260,  strength: 370,  agility: 260,  endurance: 180  },
@@ -107,7 +107,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "格擋減傷", type: 1 },{ name: "祝福", type: 2 }],
     mainElements: [1],
     subInheritanceLevel: 0.65,
-    image: "Source/flowers/5.png",
+    image: "Source/flowers/金錢橘.png",
     stats: [
       { level: 1,  wisdom: 190,  spirit: 240,  strength: 240,  agility: 190,  endurance: 360  },
       { level: 2,  wisdom: 230,  spirit: 280,  strength: 280,  agility: 230,  endurance: 420  },
@@ -132,7 +132,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "急速", type: 1 },{ name: "競技生命", type: 4 }],
     mainElements: [1],
     subInheritanceLevel: 0.65,
-    image: "Source/flowers/6.png",
+    image: "Source/flowers/冰藍繡球.png",
     stats: [
       { level: 1,  wisdom: 240, spirit: 190, strength: 190, agility: 240, endurance: 360 },
       { level: 2,  wisdom: 280, spirit: 230, strength: 230, agility: 280, endurance: 420 },
@@ -157,7 +157,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "暴擊傷害", type: 2 },{ name: "邪咒", type: 1 }],
     mainElements: [2, 3],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/7.png",
+    image: "Source/flowers/熱情香椰.png",
     stats: [
       { level: 1,  wisdom: 310,  spirit: 170, strength: 310,   agility: 170,  endurance: 260 },
       { level: 2,  wisdom: 370,  spirit: 190, strength: 370,   agility: 190,  endurance: 320 },
@@ -182,7 +182,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "格擋減傷", type: 4 },{ name: "祝福", type: 1 }],
     mainElements: [4, 5],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/8.png",
+    image: "Source/flowers/甜心莓莓.png",
     stats: [
       { level: 1,  wisdom: 170,  spirit: 310,  strength: 170,  agility: 310,  endurance: 260  },
       { level: 2,  wisdom: 190,  spirit: 370,  strength: 190,  agility: 370,  endurance: 320  },
@@ -207,7 +207,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "急速", type: 4 },{ name: "競技生命", type: 1 }],
     mainElements: [3, 4],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/9.png",
+    image: "Source/flowers/新生牽牛.png",
     stats: [
       { level: 1,  wisdom: 310,  spirit: 170, strength: 310,   agility: 170,  endurance: 260 },
       { level: 2,  wisdom: 370,  spirit: 190, strength: 370,   agility: 190,  endurance: 320 },
@@ -232,7 +232,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "暴擊傷害", type: 1 },{ name: "邪咒", type: 2 }],
     mainElements: [1],
     subInheritanceLevel: 0.65,
-    image: "Source/flowers/10.png",
+    image: "Source/flowers/紫露藍果.png",
     stats: [
       { level: 1,  wisdom: 550, spirit: 430, strength: 550, agility: 430, endurance: 820 },
       { level: 2,  wisdom: 610, spirit: 490, strength: 610, agility: 490, endurance: 910 },
@@ -257,7 +257,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "風行", type: 1 },{ name: "競技攻擊", type: 4 }],
     mainElements: [1],
     subInheritanceLevel: 0.65,
-    image: "Source/flowers/11.png",
+    image: "Source/flowers/迷糊睡蓮.png",
     stats: [
       { level: 1,  wisdom: 430, spirit: 550, strength: 430, agility: 550, endurance: 820 },
       { level: 2,  wisdom: 490, spirit: 610, strength: 490, agility: 610, endurance: 910 },
@@ -282,7 +282,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "暴擊傷害", type: 4 },{ name: "邪咒", type: 2 }],
     mainElements: [3, 4],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/12.png",
+    image: "Source/flowers/白絨蒲團.png",
     stats: [
       { level: 1,  wisdom: 700, spirit: 500, strength: 500, agility: 700, endurance: 380 },
       { level: 2,  wisdom: 790, spirit: 560, strength: 560, agility: 790, endurance: 410 },
@@ -307,7 +307,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "風行", type: 2 },{ name: "競技攻擊", type: 1 }],
     mainElements: [2, 5],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/13.png",
+    image: "Source/flowers/冰魄鈴蘭.png",
     stats: [
       { level: 1,  wisdom: 400,  spirit: 700,  strength: 700,  agility: 400,  endurance: 580  },
       { level: 2,  wisdom: 430,  spirit: 790,  strength: 790,  agility: 430,  endurance: 670  },
@@ -332,7 +332,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "急速", type: 2 },{ name: "競技生命", type: 4 }],
     mainElements: [2, 3],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/14.png",
+    image: "Source/flowers/豐穗狐守.png",
     stats: [
       { level: 1,  wisdom: 700,  spirit: 500,  strength: 700,  agility: 500,  endurance: 380 },
       { level: 2,  wisdom: 790,  spirit: 560,  strength: 790,  agility: 560,  endurance: 410 },
@@ -357,7 +357,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "暴擊傷害", type: 2 },{ name: "邪咒", type: 1 }],
     mainElements: [2, 3],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/15.png",
+    image: "Source/flowers/花影琉璃.png",
     stats: [
       { level: 1,  wisdom: 700,  spirit: 400,  strength: 700,  agility: 400,  endurance: 580  },
       { level: 2,  wisdom: 790,  spirit: 430,  strength: 790,  agility: 430,  endurance: 670  },
@@ -382,7 +382,7 @@ const FLOWERS_DATA = [
     physicSkillElements: [{ name: "急速", type: 4 },{ name: "競技生命", type: 1 }],
     mainElements: [3, 4],
     subInheritanceLevel: 0.5,
-    image: "Source/flowers/16.png",
+    image: "Source/flowers/芳華蔓影.png",
     stats: [
       { level: 1,  wisdom: 700, spirit: 400, strength: 400, agility: 700, endurance: 580 },
       { level: 2,  wisdom: 790, spirit: 430, strength: 430, agility: 790, endurance: 670 },
